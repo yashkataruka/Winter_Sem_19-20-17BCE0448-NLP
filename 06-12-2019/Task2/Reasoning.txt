@@ -1,4 +1,9 @@
 Keyword: DiCaprio
 Profession: Actor
 
-Observation: From the chart, we can conclude that the highest frequency has been seen during the year 2015-2017. Obtaining more text data from the list section, we conclude that the year 2016 has a big contribution in the frequency being the highest between the mentioned years. The main reason is, Leonardo DiCaprio won the Oscars for the first time in the year 2016 after being nominated in multiple categories in multiple years. Adding to that, while giving his oscar's acceptance speech, he spoke about climate change which is a worrying factor and one of the global threats to the world.
+Observation: From the chart, we can conclude that the highest frequency has been seen during the year 2015-2017.
+Obtaining more text data from the list section, we conclude that the year 2016 has a big contribution in the 
+frequency being the highest between the mentioned years. The main reason is, Leonardo DiCaprio won the Oscars
+for the first time in the year 2016 after being nominated in multiple categories in multiple years. Adding to 
+that, while giving his oscar's acceptance speech, he spoke about climate change which is a worrying factor and
+one of the global threats to the world.
