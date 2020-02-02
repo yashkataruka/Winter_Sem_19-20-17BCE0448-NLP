@@ -12,3 +12,6 @@ Another task that was performed is Lemmatization. Lemmatization usually refers t
 and morphological analysis of words, normally aiming to remove inflectional endings only and to return the base or dictionary form 
 of a word, which is known as the lemma.
 
+A small task at the end was also performed of Vectorization. Vectorization is a methodology in NLP to map words or phrases from 
+vocabulary to a corresponding vector of real numbers which used to find word predictions, word similarities/semantics. The process of converting words into numbers are called Vectorization.
+We took 4 documents, calling them a corpus, and performed vectorization to see the numbers associating to that particular word.
